@@ -1,0 +1,10 @@
+com\praveen\Hospital\integration\base\IntegrationTestBase.class
+com\praveen\Hospital\unit\web\service\AuthorServiceImplTest.class
+com\praveen\Hospital\integration\base\TestScopeAuthentication.class
+MysqlConnectionTest.class
+com\praveen\Hospital\config\TestScopeWebSecurityConfigurer.class
+com\praveen\Hospital\integration\api\AuthorControllerTest.class
+com\praveen\Hospital\integration\api\BookControllerTest.class
+com\praveen\Hospital\unit\api\BookControllerTest.class
+com\praveen\Hospital\unit\api\AuthorControllerTest.class
+com\praveen\Hospital\unit\web\service\BookServiceImplTest.class
